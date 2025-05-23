@@ -19,4 +19,4 @@ This is a simple Calculator application built using Python's `tkinter` module. I
 1. Make sure you have Python installed on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/Harika-Vavilapalli/MicroIT-Project2.git
+   git clone https://github.com/Harika-Vavilapalli/MicroIT-Project2.git  
